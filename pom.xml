@@ -17,5 +17,6 @@
   </dependencies>
   <build>
     <finalName>WebApp</finalName>
+    <failOnMissingWebXml>false</failOnMissingWebXml>
   </build>
 </project>
